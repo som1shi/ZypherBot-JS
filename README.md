@@ -4,18 +4,18 @@ This is a discord.js bot that I coded for moderation in discord servers.
 
 ##Commands
 
-###User
+### User
 
 `!user` Gives data about the user's discord account
 
-###Kick
+### Kick
 
 `!kick <User> <Reason>` Kick a user from the server
 
-###Ban
+### Ban
 
 `!ban <User> <Reason>` Ban a user from the server
 
-###Info
+### Info
 
 `!info` Get more information about the bot
